@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>I am currently working on school projects while learning to build and develop software applications.<br> I have a passion for continuous learning and improving my skills. In my free time.<br>I enjoy training and staying active.<br><br>
+<br>I am currently pursuing my degree in Software Engineering and working on school projects.<br> I have a passion for continuous learning and improving my skills. In my free time.<br>I enjoy training and staying active.<br><br>
 
 
 ## 🌐 Socials:
